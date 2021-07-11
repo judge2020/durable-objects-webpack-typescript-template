@@ -2,7 +2,7 @@
 
 This template is largely to demonstrate using typescript and webpack to generate a durable object worker script.
 
-Counter.ts typescript syntax largely lifted from this pull request https://patch-diff.githubusercontent.com/raw/cloudflare/durable-objects-rollup-esm/pull/9.
+Counter.ts typescript syntax largely lifted from this pull request https://github.com/cloudflare/durable-objects-rollup-esm/pull/9.
 
 
 ## Note: You must use [wrangler](https://developers.cloudflare.com/workers/cli-wrangler/install-update) 1.17 or newer to use this template.
