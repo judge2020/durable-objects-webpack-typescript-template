@@ -1,0 +1,3 @@
+interface DurableObjectEnv {
+    COUNTER: DurableObjectNamespace
+}
